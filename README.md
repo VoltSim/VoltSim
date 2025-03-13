@@ -5,7 +5,8 @@
   
   # VoltSim: Community Issue and Feature Tracking
 
-[![Discord Banner 1](https://discord.com/api/guilds/1238617639836979212/widget.png?style=banner1)](https://discord.gg/6V7cRBEK)
+[![Discord Banner 1](https://discord.com/api/guilds/1238617639836979212/widget.png?style=banner1)](https://discord.gg/nBkWTWncvf)
+
 
 
 </div>
